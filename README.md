@@ -1,6 +1,8 @@
 # Portfolio Preview
 
-I noticed a trend growing towards bento box in UX and I wanted to try this for my portfolio. You can visit the site (https://kapilsh.netlify.app/). It feels very convenient in a way that all the information you are looking for is served for you.
+I noticed a trend growing towards bento box in UX and I wanted to try this for my portfolio. You can visit the site (https://kapilsh.netlify.app/). It feels very convenient in a way that all the information you are looking for is served for you. Apple inspired me to design my portfolio is such manner
+
+As you can use CSS Flexbox to arrange those boxes accordingly, which makes it easier for development as well. 
 
 ## Stage 1
 
