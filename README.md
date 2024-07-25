@@ -10,10 +10,13 @@ I will be developing the subsequent tiles with future releases. I decided to kee
 
 <img width="725" alt="image" src="https://github.com/user-attachments/assets/c52ee0fe-998d-42ce-8a4a-59604af03e78">
 
-1) Hover to see contact details:
+Features of this release:
+1) Designing UI, theme and color palette (https://coolors.co/0d1b2a-1b263b-415a77-778da9-e0e1dd)
+2) Used Image Segmentation to give a background to the image that is appropriate with the theme
+3) Hover to see contact details:
 
 ![portfolio-tile](https://github.com/user-attachments/assets/1ef93df4-d6d5-4f5e-b165-45de476d56db)
 
-2) Copy the details
-3) React-icons libarary is used
-4) Resume preview button
+4) Copy email and contact button
+5) React-icons libarary is used
+6) Resume preview button
