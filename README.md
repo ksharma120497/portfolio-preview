@@ -12,11 +12,14 @@ I will be developing the subsequent tiles with future releases. I decided to kee
 
 Features of this release:
 1) Designing UI, theme and color palette (https://coolors.co/0d1b2a-1b263b-415a77-778da9-e0e1dd)
+
+   ![portfolio-tile](https://github.com/user-attachments/assets/83b08722-8cc5-424e-b249-bf48b766d751)
+   
 2) Used Image Segmentation to give a background to the image that is appropriate with the theme
 3) Hover to see contact details:
 
 ![portfolio-tile](https://github.com/user-attachments/assets/1ef93df4-d6d5-4f5e-b165-45de476d56db)
 
-4) Copy email and contact button
-5) React-icons libarary is used
-6) Resume preview button
+3) Copy email and contact button
+4) React-icons libarary is used
+5) Resume preview button
