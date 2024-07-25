@@ -12,5 +12,4 @@ I will be developing the subsequent tiles with future releases. I decided to kee
 
 Hover to see contact details:
 
-https://github.com/user-attachments/assets/01d6da9d-9eb6-4548-9b65-fd28f9379625
-
+![portfolio-tile](https://github.com/user-attachments/assets/1ef93df4-d6d5-4f5e-b165-45de476d56db)
