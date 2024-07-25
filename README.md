@@ -10,6 +10,10 @@ I will be developing the subsequent tiles with future releases. I decided to kee
 
 <img width="725" alt="image" src="https://github.com/user-attachments/assets/c52ee0fe-998d-42ce-8a4a-59604af03e78">
 
-Hover to see contact details:
+1) Hover to see contact details:
 
 ![portfolio-tile](https://github.com/user-attachments/assets/1ef93df4-d6d5-4f5e-b165-45de476d56db)
+
+2) Copy the details
+3) React-icons libarary is used
+4) Resume preview button
